@@ -10,6 +10,12 @@
   - `rsa4096/C7DB23D61086C9B7 2021-01-02 [S]`
   - [C7DB23D61086C9B7.asc](active-keys/C7DB23D61086C9B7.asc)
 
+- `rsa4096/69AD050824212A02 2020-06-09 Saul Maldonado <samaldonado4@gmail.com>`
+
+  - Fingerprint: `CA54 E34C 23B6 2DBC AB65 4D85 69AD 0508 2421 2A02`
+
+  - [69AD050824212A02.asc](active-keys/69AD050824212A02.asc)
+
 ---
 
 Commit signed with `4AEE18F83AFDEB23` were done using GitHub UI
